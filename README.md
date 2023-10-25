@@ -1,4 +1,4 @@
-### Corona Contact Tracing - Picanol Group 🦠
+### Corona Contact Tracing - KU LEUVEN🦠
 
 Welcome to the Corona Contact Tracing project, an implementation of research by Michiel Willocx. This project supports privacy-friendly registration at catering facilities and is an assignment for the course Distributed Systems 2.
 
