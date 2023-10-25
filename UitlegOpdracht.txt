@@ -1,0 +1,27 @@
+Paper_1: Contact Tracing
+
+Manieren
+    1. GPS data continu doorsturen naar centrale DB (China, ...)
+    2. Bluetooth - decentralised: elke persoon houdt anonieme token bij!!
+        - Token bij aanmaak op de app, elke 10 min. gerefreshed
+        - Andere mensen: houden bij: (Token, signaalsterk)
+        - Bij infectie: al uw tokens die je gebruikt hebt
+            => naar DB
+            => Alle andere mensen, vergelijken tokens uit DB, en checken op infectie
+
+
+Paper_2: Mandatory Registration (bv. in Café)
+    Privacy concerns: onnodige gegevens
+
+Manier uit paper (privacy)
+    Belangrijke benodigdheden: 
+        - Locatie nodig
+        - Anoniem
+        - TelNr
+   
+    Werkwijze:
+        1. Café registratie (elk café maakt account)
+
+
+
+EIGEN INTERPRETATIE
